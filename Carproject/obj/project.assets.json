@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Outla\\Desktop\\homework\\Carproject\\Carproject\\Carproject.csproj",
+      "projectUniqueName": "C:\\Users\\Outla\\Desktop\\Homework\\IntroWork\\Carproject\\Carproject.csproj",
       "projectName": "Carproject",
-      "projectPath": "C:\\Users\\Outla\\Desktop\\homework\\Carproject\\Carproject\\Carproject.csproj",
+      "projectPath": "C:\\Users\\Outla\\Desktop\\Homework\\IntroWork\\Carproject\\Carproject.csproj",
       "packagesPath": "C:\\Users\\Outla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Outla\\Desktop\\homework\\Carproject\\Carproject\\obj\\",
+      "outputPath": "C:\\Users\\Outla\\Desktop\\Homework\\IntroWork\\Carproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
