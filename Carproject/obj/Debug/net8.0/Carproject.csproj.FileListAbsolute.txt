@@ -1,0 +1,43 @@
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.exe
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.deps.json
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.runtimeconfig.json
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfoInputs.cache
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfo.cs
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.csproj.CoreCompileInputs.cache
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\refint\Carproject.dll
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.genruntimeconfig.cache
+C:\Users\Outla\Desktop\Programming\Carproject\Carproject\obj\Debug\net8.0\ref\Carproject.dll
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.exe
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.deps.json
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.runtimeconfig.json
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\bin\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfoInputs.cache
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfo.cs
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.csproj.CoreCompileInputs.cache
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\refint\Carproject.dll
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\Carproject.genruntimeconfig.cache
+C:\Users\Outla\Desktop\Battlenet blokering\Programming\Carproject\Carproject\obj\Debug\net8.0\ref\Carproject.dll
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\bin\Debug\net8.0\Carproject.exe
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\bin\Debug\net8.0\Carproject.deps.json
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\bin\Debug\net8.0\Carproject.runtimeconfig.json
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\bin\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\bin\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfoInputs.cache
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfo.cs
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.csproj.CoreCompileInputs.cache
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.sourcelink.json
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.dll
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\refint\Carproject.dll
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.pdb
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\Carproject.genruntimeconfig.cache
+C:\Users\Outla\Desktop\homework\Carproject\Carproject\obj\Debug\net8.0\ref\Carproject.dll
