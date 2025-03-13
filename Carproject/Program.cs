@@ -37,9 +37,8 @@ namespace Carproject
                     Console.WriteLine("3. Hvad koster en køretur?");
                     Console.WriteLine("4. Ispalindrome");
                     Console.WriteLine("5. Print car details");
-                    Console.WriteLine("6. print all team cars");
-                    Console.WriteLine("7. Afslut");
-                    Console.WriteLine(" skriv 1-7 for at vælge en valgmulighed");
+                    Console.WriteLine("6. Afslut");
+                    Console.WriteLine(" skriv 1-6 for at vælge en valgmulighed");
                     Console.WriteLine();
 
                     int Userinput = Convert.ToInt32(Console.ReadLine());
@@ -75,9 +74,6 @@ namespace Carproject
                             PrintCarDetails(Brand, Model, Year, Km, Geartype, FuelType, FuelPrice);
                             break;
                         case 6:
-                            PrintTeamDetails(CarStringList);
-                            break;
-                        case 7:
                             running = false;
                             break;
                     }
@@ -190,23 +186,11 @@ namespace Carproject
                     string details = $"Mærke: {brand}, Model: {model}, Årgang: {year}, Km: {km}, Geartype: {gearType}, Brændstoftype: {fuelType}, Brændstofpris: {fuelPrice:F2} kr";
                     Console.WriteLine(details);
                 }
-
-                static void PrintTeamDetails(List<string> carList)
-                {
-                    if (carList.Count == 0)
-                    {
-                        Console.WriteLine("Ingen biler registreret endnu.");
-                    }
-                    else
-                    {
-                        Console.WriteLine("\n=== Alle teamets biler ===");
-                        carList.ForEach(car => Console.WriteLine(car));
                     }
                 }
 
             }
-        }
-    }
+        
 
 
 
