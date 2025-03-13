@@ -13,9 +13,23 @@ namespace Carproject
         public int Year { get; private set; }
         public int Km { get; private set; }
         public char GearType { get; private set; }
-        public char FuelType { get; private set; }
+        public FuelType Fuel { get; private set; } // Brændstoftype nu som enum
         public double KmPerLiter { get; private set; }
         public double FuelPrice { get; private set; }
+
+        public enum FuelType
+
+        {
+
+            Benzin,
+
+            Diesel,
+
+            Electric,
+
+            Hybrid
+        }
+
 
         // Konstruktør
         public Car(string brand, string model, int year, int km, char gearType, char fuelType, double kmPerLiter, double fuelPrice)
@@ -25,14 +39,14 @@ namespace Carproject
             Year = year;
             Km = km;
             GearType = Char.ToUpper(gearType);
-            FuelType = Char.ToUpper(fuelType);
+            fuelType = Char.ToUpper(fuelType);
             if (kmPerLiter > 0)
             {
                 KmPerLiter = kmPerLiter;
             }
             else
             {
-                throw new ArgumentException("Din Km/L skal være større end 0.");
+                Console.Write("Din Km/L skal være større end 0.");
             }
 
             if (fuelPrice >= 0)
@@ -41,7 +55,7 @@ namespace Carproject
             }
             else
             {
-                throw new ArgumentException("Brændstofprisen kan ikke være negativ.");
+                Console.Write("Brændstofprisen kan ikke være negativ.");
             }
         }
 
@@ -73,7 +87,8 @@ namespace Carproject
         // Udskriver bilens detaljer
         public void PrintCarDetails()
         {
-            Console.WriteLine($"Mærke: {Brand}, Model: {Model}, Årgang: {Year}, Km: {Km}, Geartype: {GearType}, Brændstoftype: {FuelType}, Brændstofpris: {FuelPrice:F2} kr");
+            // Make this work
+            Console.WriteLine($"Mærke: {Brand}, Model: {Model}, Årgang: {Year}, Km: {Km}, Geartype: {GearType}, Brændstoftype: {FuelType}, Brændstofpris: {FuelPrice:C} ");
         }
     }
 }
